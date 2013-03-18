@@ -1,0 +1,2 @@
+Simple project that is testing out a problem I had when upgrading a project from VS2005 to VS2012. I qsked the folllowing question on stackoverflow:
+http://stackoverflow.com/questions/15387109/c-type-cast-operator-code-that-wont-compile-in-visual-studio-2012-but-worked
